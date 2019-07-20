@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class TableOfAnyNumber {
 	Scanner input = new Scanner(System.in);
-	int number, tem;;
+	int number, tem;
 
 	public void input() {
 		System.out.println("Enter Any Number To Find Out Table Of That Nubmber");
